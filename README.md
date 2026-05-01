@@ -1,2 +1,2 @@
-# PTSD_RL
+# PTSD_RL project
 Pilot
